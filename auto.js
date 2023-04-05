@@ -10,4 +10,4 @@ var AutoNuevo = new auto("Mazda", "CX5", "Negro", 2022);
 
 var AutoNuevo2 = new auto("KIA", "Sportage", "Gris", 2020);
 
-var AutoNuevo3 = new auto("Toyota", "Corolla", "Plateado", 2021)
+var AutoNuevo3 = new auto("Toyota", "Corolla", "Plateado", 2023)
